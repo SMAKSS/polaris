@@ -25,7 +25,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ## Global palette
 
@@ -55,7 +55,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ## Color roles
 
@@ -87,7 +87,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Default
 
@@ -151,7 +151,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Brand
 
@@ -205,7 +205,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Info
 
@@ -270,7 +270,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Success
 
@@ -324,7 +324,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Caution
 
@@ -378,7 +378,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Warning
 
@@ -432,7 +432,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Critical
 
@@ -486,7 +486,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Magic
 
@@ -541,7 +541,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Emphasis
 
@@ -595,7 +595,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Transparent
 
@@ -649,7 +649,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Inverse
 
@@ -698,7 +698,7 @@ icon: ColorsMajor
 
 <Card>
 
-  <Box className="text-extra-padding">
+  <Box padding="4">
 
     ## Specialized roles
 
@@ -716,7 +716,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Input
 
@@ -770,7 +770,7 @@ icon: ColorsMajor
 
       <Grid.Cell columnSpan={{xs: 6, sm: 6, md: 6, lg: 4, xl: 4}}>
 
-        <Box className="text-extra-padding">
+        <Box padding="4">
 
           ### Nav
 
