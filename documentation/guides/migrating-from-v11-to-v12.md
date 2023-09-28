@@ -4,7 +4,9 @@ Polaris v12.0.0 ([full release notes](https://github.com/Shopify/polaris/release
 
 ## Table of Contents
 
-- [Quick migration guide](#quick-migration-guide)
+- [Migrating from v11 to v12](#migrating-from-v11-to-v12)
+  - [Table of Contents](#table-of-contents)
+  - [Quick migration guide](#quick-migration-guide)
 
 ## Quick migration guide
 
@@ -28,6 +30,16 @@ Polaris v12.0.0 ([full release notes](https://github.com/Shopify/polaris/release
 `npx @shopify/polaris-migrator react-rename-component-prop <path> --componentName="Badge" --from="status" --to="tone"`
 
 `npx @shopify/polaris-migrator react-rename-component-prop <path> --componentName="Badge" --from="statusAndProgressLabelOverride" --to="toneAndProgressLabelOverride"`
+
+**IndexTable.Row**
+
+- Status
+
+`npx @shopify/polaris-migrator react-rename-component-prop <path> --componentName="IndexTable.Row" --from="status" --to="tone"`
+
+- Subdued
+
+`npx @shopify/polaris-migrator react-rename-component-prop <path> --componentName="IndexTable.Row" --from="subdued" --to="tone" --toValue="subdued"`
 
 **Layout.Section**
 
