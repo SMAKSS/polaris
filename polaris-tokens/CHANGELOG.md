@@ -1,5 +1,17 @@
 # Changelog
 
+## 8.0.0-beta.1
+
+### Major Changes
+
+- [#10760](https://github.com/Shopify/polaris/pull/10760) [`2a467249f`](https://github.com/Shopify/polaris/commit/2a467249f3a198dc252eba53df9fecc7bf6572dd) Thanks [@lgriffee](https://github.com/lgriffee)! - Updated `shadow` token values
+
+* [#10673](https://github.com/Shopify/polaris/pull/10673) [`08aaf11ec`](https://github.com/Shopify/polaris/commit/08aaf11ec59680155476a20036a672795c2bad47) Thanks [@lgriffee](https://github.com/lgriffee)! - Updated `font-size` and `font-weight` token values
+
+### Minor Changes
+
+- [#10669](https://github.com/Shopify/polaris/pull/10669) [`794d1f5e4`](https://github.com/Shopify/polaris/commit/794d1f5e4b79a2721594979d31972cd7534d6174) Thanks [@lgriffee](https://github.com/lgriffee)! - Added `border-radius` semantic layer
+
 ## 7.13.0-beta.0
 
 ### Minor Changes
