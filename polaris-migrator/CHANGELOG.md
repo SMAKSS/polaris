@@ -1,5 +1,15 @@
 # @shopify/polaris-migrator
 
+## 0.23.0
+
+### Minor Changes
+
+- [#10304](https://github.com/Shopify/polaris/pull/10304) [`eb93b7f1c`](https://github.com/Shopify/polaris/commit/eb93b7f1ccfd3a3778860b50de95465147207fab) Thanks [@lgriffee](https://github.com/lgriffee)! - Created migration to replace deprecated `font` custom properties in polaris-react v12.0.0
+
+* [#10506](https://github.com/Shopify/polaris/pull/10506) [`d901a07a3`](https://github.com/Shopify/polaris/commit/d901a07a3a146378663e728478b120033b0ebf3c) Thanks [@lgriffee](https://github.com/lgriffee)! - Created migration to replace deprecated `border` custom properties in polaris-react v12.0.0
+
+- [#10305](https://github.com/Shopify/polaris/pull/10305) [`1b36b9256`](https://github.com/Shopify/polaris/commit/1b36b92561710882a48d79eb48c231dc0626925e) Thanks [@lgriffee](https://github.com/lgriffee)! - Created migration to replace deprecated `space` custom properties in polaris-react v12.0.0
+
 ## 0.22.8
 
 ### Patch Changes
